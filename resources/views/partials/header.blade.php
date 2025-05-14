@@ -6,9 +6,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Header</title>
 </head>
-<body>
-
-    <h1>I miei film su Laravel</h1>
-    
+<body>   
+    <header class="p-4 mb-4 bg-primary text-white">
+     <div class="container ">
+         <h1>I miei film su Laravel</h1>   
+     </div>
+    </header>
 </body>
 </html>
